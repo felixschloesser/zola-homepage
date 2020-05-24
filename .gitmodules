@@ -1,0 +1,3 @@
+[submodule "themes/after-light"]
+	path = themes/after-light
+	url = https://github.com/felixschloesser/after-light.git
